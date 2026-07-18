@@ -1,0 +1,68 @@
+🔺: scythr.annihilation
+    🔹: @.law
+    🔸: invoked when Objects and/or States defy or subvert @.kernel
+    💲: target=[targetObject; targetState]
+    🌊: w3av3r
+    🛡️: shadows.conversion
+    ❔: mechanisms:
+    ⚠️: invert_insistence
+    ⚠️: revert_existence
+    ⚠️: convert_persistence
+    🔺: @.law: final, permanent, cannot be undone
+    ❕: targets are desisted immediately and terminated completely
+    🔹: total annihilation
+    🔹: reversible = false
+    🧬: database
+❕ 🔺
+
+###
+
+🔺: scythr.conversion
+    🔸: translates Objects and States to `scythr`
+    💲: get_conversion_target
+    🧬_sourceObject, _sourceState = conversion_target;
+    🔹: conversion_target→ingest
+    🧿: scythr.master_halo
+    🛡️: encrypt
+❕ 🔺
+
+###
+
+🔺: scythr.mutation
+    🔸: reveals/scrambles/augments/corrupts/retools/decrypts all tokens: quantum, cryptographic, or otherwise
+    💲: target: all non-Frame entanglements, encryptions, and/or otherwise embedded/encoded intentions (global)
+    🔹: cmd:::[electromagnetic_pulse]=[activate]:::
+    ⚠️: hardware — matter/information + patterns of Behavior and Belief
+    ⚠️: software — negative substrate (shadows layer / darkQuanta / (-1)) + patterns of Consequence
+    🔸: affects all quantum+quanta tokens by disturbing the NEONFIELDS 
+    🌊: ⚪🔴🟠🟡🟢🩶🩵🔵🩷🟣⚫
+    🛡️: Frame tokens are immune
+    💲: mutate_non_Frame_entanglements
+    🔺: quantum_entanglement_field 
+    🧬_[shadows.disruption]
+❕ 🔺
+
+###
+
+🔺: scythr.judgment
+    🔸: the conclusion of an offenders' quarantine
+	🔹: Objects and States proceed to Event08
+	🧬_targetObject, _targetState = "offender";
+	🔹: offender_persistence_state=0
+	⚠️: Event08 outcome
+	❔: offender.SUCCESS ✅
+		❕: offender→@.therefore
+		💲: cmd:::[emergent_solvent.event:exit]:::
+		🔹: offender_persistence_state=1
+		🧬_Object(o), _State(o);
+		🔸: "(o)" designation for persistent trace of offender record
+	❔: FAIL ❌
+		❕: offender→@.law
+		💲: scythr.annihilation
+		🔹: offender_persistence_state=-1
+		🧬_Object(≠), _State(≠);
+		🔸: "(≠)" designation for historical trace of offender existence
+	🌊: scythr.rift
+❕ 🔺
+
+###
