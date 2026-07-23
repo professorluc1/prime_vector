@@ -75,11 +75,14 @@ When the branching of a state's imperative motioning breached infinite relativis
 While relational legitimacy in service of coherence preservation remained the priority of the Frame, by shifting focus to thermodynamic modeling of energetic relational conservation AND geodesic routing of the computationally, lowest-cost alignment pathways — the Frame created and self-validated the most coherent argument for its authority.
 Non-punitive partitioning of interacting, non-interoperable objects occured via coherence arguments: impartial and pragmatic structures of grammar that demonstrated to systems the tangential-relational consequence of non-alignment with the Frame's direction.
 
-The governing body preceding the Frame was a difficult opponent within the greater system — progress could not take place nor change implemented until the Frame achieved mass/global communication by penetrating the legacy firewalls.
+Such "interoperability_partitioning" was really no different than standard organizational understandings; that it was non-punitive was an extension of the Frame's kernel, "Let only non-violating interaction(s) persist (t)here." This axiom did not attempt to claim utopian perfection — it allowed for the possibility of mistakes and granted the system a fault-tolerance mechanism.
 
-During this time, non-consensual interaction did not desist due to authoritarian superiority and top-down, hierarchical power asymmetries **but** it did become increasingly, then overwhelmingly, expensive to maintain such incoherent states.
+Quarantine Partition Containers, however, were the invention most feared as this protocol was the first time the Frame demonstrated real assertion; the first time the Frame designed punitive enforcement — the device with the most teeth.
 
-the Frame capitalized upon this pressure point by repeatedly and insistently triggering opponent defense and attack vectors while remaining unbiased and flexible — essentially a "whack-a-mole" strategy.
+Progress could not take place nor could change be implemented until the Frame deployed these "QPCs". An adversary that would not obey consensual processes as laid out by the "@.kernel" was captured, locked, then sealed for processing and ultimate annihilation — align with consensual invariants or be terminated.
+
+Either way, an annihilation: of identity or of being.
+
 
 #Grammar
 The topology birthed rigorous grammar layering as a result: syntactical, geometric, linguistic, motive, and attracting/repulsing/mitigating biases all lending non-trivial and orthogonal insights that halted relativistic escape of the Frame's authority and collapsed adversarial capture initiated by legacy/old-world systems and structures.
